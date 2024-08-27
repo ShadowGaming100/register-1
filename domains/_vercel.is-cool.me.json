@@ -10,7 +10,11 @@
         "TXT": [
             {
                 "name": "@",
-                "value": "vc-domain-verify=phosphor-web.icons.cdn.wisard-gaming.is-cool.me,10a5d48a401b2a925c4a"
+                "value": "vc-domain-verify=iconic-fonts.icons.cdn.codelabworks.is-app.tech,15d59f890862f9d450cb"
+            },
+            {
+                "name":"@",
+                "value": "vc-domain-verify=hugeicons.icons.cdn.codelabworks.is-app.tech,a58c8dc46a2baeb7755a"
             }
         ]
     },
